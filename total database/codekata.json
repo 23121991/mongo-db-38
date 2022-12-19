@@ -1,0 +1,70 @@
+[{
+  "_id": "ObjectId(\"639a4767a08648209151bb83\")",
+  "code_id": 10,
+  "problem": "Find the average of 25 prime numbers.",
+  "dateforsubmission": "2022-10-24T00:00:00.000Z",
+  "geekpointsearned": 100
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb82\")",
+  "code_id": 9,
+  "problem": "Given 2 numbers N and K followed by elements of N .Print 'yes' if K exists else print 'no'.",
+  "dateforsubmission": "2022-10-20T00:00:00.000Z",
+  "geekpointsearned": 40
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb81\")",
+  "code_id": 8,
+  "problem": "Find the maximum among 25 prime numbers.",
+  "dateforsubmission": "2022-10-19T00:00:00.000Z",
+  "geekpointsearned": 35
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb80\")",
+  "code_id": 7,
+  "problem": "Write a code to get an integer N and print the digits of the integer.",
+  "dateforsubmission": "2022-10-28T00:00:00.000Z",
+  "geekpointsearned": 55
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7f\")",
+  "code_id": 6,
+  "problem": "Given a number N, print 'yes' if it is composite else print 'no'.",
+  "dateforsubmission": "2022-10-07T00:00:00.000Z",
+  "geekpointsearned": 20
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7e\")",
+  "code_id": 5,
+  "problem": "Given a string S, print it without using semicolon in your program.",
+  "dateforsubmission": "2022-10-13T00:00:00.000Z",
+  "geekpointsearned": 30
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7d\")",
+  "code_id": 4,
+  "problem": "Find the minimum among 10 numbers.",
+  "dateforsubmission": "2022-10-17T00:00:00.000Z",
+  "geekpointsearned": 30
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7c\")",
+  "code_id": 3,
+  "problem": "You are given a number with duplicate digits your task is to remove the immediate duplicate digits and print the result.",
+  "dateforsubmission": "2022-10-25T00:00:00.000Z",
+  "geekpointsearned": 25
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7b\")",
+  "code_id": 2,
+  "problem": "Write a code to get the input and print it 5 times.",
+  "dateforsubmission": "2022-10-15T00:00:00.000Z",
+  "geekpointsearned": 20
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7a\")",
+  "code_id": 1,
+  "problem": "Write a code to get the input in the given format and print the output in the given format.",
+  "dateforsubmission": "2022-10-03T00:00:00.000Z",
+  "geekpointsearned": 10
+}]

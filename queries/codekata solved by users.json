@@ -1,0 +1,226 @@
+[{
+  "_id": "ObjectId(\"639a4767a08648209151bb7b\")",
+  "code_id": 2,
+  "problem": "Write a code to get the input and print it 5 times.",
+  "dateforsubmission": "2022-10-15T00:00:00.000Z",
+  "geekpointsearned": 20,
+  "problems_solvedby_users": [
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3d\")",
+      "userid": 1,
+      "username": "Saravanan",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 1,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "task_submitted_date": "2022-10-14T00:00:00.000Z",
+      "task_id": 2
+    },
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3e\")",
+      "userid": 2,
+      "username": "Vijay",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 2,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        8,
+        6,
+        10,
+        7
+      ],
+      "task_submitted_date": "2022-10-24T00:00:00.000Z",
+      "task_id": 1
+    }
+  ]
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7c\")",
+  "code_id": 3,
+  "problem": "You are given a number with duplicate digits your task is to remove the immediate duplicate digits and print the result.",
+  "dateforsubmission": "2022-10-25T00:00:00.000Z",
+  "geekpointsearned": 25,
+  "problems_solvedby_users": []
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb7d\")",
+  "code_id": 4,
+  "problem": "Find the minimum among 10 numbers.",
+  "dateforsubmission": "2022-10-17T00:00:00.000Z",
+  "geekpointsearned": 30,
+  "problems_solvedby_users": [
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3d\")",
+      "userid": 1,
+      "username": "Saravanan",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 1,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "task_submitted_date": "2022-10-14T00:00:00.000Z",
+      "task_id": 2
+    }
+  ]
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb80\")",
+  "code_id": 7,
+  "problem": "Write a code to get an integer N and print the digits of the integer.",
+  "dateforsubmission": "2022-10-28T00:00:00.000Z",
+  "geekpointsearned": 55,
+  "problems_solvedby_users": [
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3d\")",
+      "userid": 1,
+      "username": "Saravanan",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 1,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "task_submitted_date": "2022-10-14T00:00:00.000Z",
+      "task_id": 2
+    },
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3e\")",
+      "userid": 2,
+      "username": "Vijay",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 2,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        8,
+        6,
+        10,
+        7
+      ],
+      "task_submitted_date": "2022-10-24T00:00:00.000Z",
+      "task_id": 1
+    }
+  ]
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb81\")",
+  "code_id": 8,
+  "problem": "Find the maximum among 25 prime numbers.",
+  "dateforsubmission": "2022-10-19T00:00:00.000Z",
+  "geekpointsearned": 35,
+  "problems_solvedby_users": [
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3e\")",
+      "userid": 2,
+      "username": "Vijay",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 2,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        8,
+        6,
+        10,
+        7
+      ],
+      "task_submitted_date": "2022-10-24T00:00:00.000Z",
+      "task_id": 1
+    }
+  ]
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb82\")",
+  "code_id": 9,
+  "problem": "Given 2 numbers N and K followed by elements of N .Print 'yes' if K exists else print 'no'.",
+  "dateforsubmission": "2022-10-20T00:00:00.000Z",
+  "geekpointsearned": 40,
+  "problems_solvedby_users": []
+},
+{
+  "_id": "ObjectId(\"639a4767a08648209151bb83\")",
+  "code_id": 10,
+  "problem": "Find the average of 25 prime numbers.",
+  "dateforsubmission": "2022-10-24T00:00:00.000Z",
+  "geekpointsearned": 100,
+  "problems_solvedby_users": [
+    {
+      "_id": "ObjectId(\"639a2525a08648209151bb3e\")",
+      "userid": 2,
+      "username": "Vijay",
+      "course": [
+        "react",
+        "nodejs",
+        "mySQL",
+        "mongoDB"
+      ],
+      "placement": true,
+      "drive_id": 2,
+      "mentor_id": 1,
+      "code_id": [
+        1,
+        2,
+        8,
+        6,
+        10,
+        7
+      ],
+      "task_submitted_date": "2022-10-24T00:00:00.000Z",
+      "task_id": 1
+    }
+  ]
+}]

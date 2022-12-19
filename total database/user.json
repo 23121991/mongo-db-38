@@ -1,0 +1,423 @@
+[{
+  "_id": "ObjectId(\"639a2525a08648209151bb55\")",
+  "userid": 25,
+  "username": "Parveen",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "leave_date": "2022-10-14T00:00:00.000Z",
+  "task_submitted_date": "2022-10-28T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb54\")",
+  "userid": 24,
+  "username": "Deepika",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "leave_date": "2022-10-19T00:00:00.000Z",
+  "task_submitted_date": "2022-10-27T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb53\")",
+  "userid": 23,
+  "username": "Roopkumar",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-26T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb52\")",
+  "userid": 22,
+  "username": "Abirami",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 3,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-25T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb51\")",
+  "userid": 21,
+  "username": "Jeni",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-24T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb50\")",
+  "userid": 20,
+  "username": "Dineshkarthik",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": false,
+  "drive_id": 0,
+  "mentor_id": 2,
+  "leave_date": "2022-10-31T00:00:00.000Z",
+  "task_submitted_date": "2022-10-23T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4f\")",
+  "userid": 19,
+  "username": "Abdulkamal",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 3,
+  "mentor_id": 2,
+  "task_submitted_date": "2022-10-22T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4e\")",
+  "userid": 18,
+  "username": "Moses",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-12T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4d\")",
+  "userid": 17,
+  "username": "BhavaniRathna",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": false,
+  "drive_id": 0,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-13T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4c\")",
+  "userid": 16,
+  "username": "Dhanyakrishnan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": false,
+  "drive_id": 0,
+  "mentor_id": 1,
+  "leave_date": "2022-10-05T00:00:00.000Z",
+  "task_submitted_date": "2022-10-16T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4b\")",
+  "userid": 15,
+  "username": "Manikandan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-17T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb4a\")",
+  "userid": 14,
+  "username": "Janany",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-18T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb49\")",
+  "userid": 13,
+  "username": "Vijayalakshmi",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 3,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-19T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb48\")",
+  "userid": 12,
+  "username": "Kathiravan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": false,
+  "drive_id": 0,
+  "mentor_id": 1,
+  "leave_date": "2022-10-26T00:00:00.000Z",
+  "task_submitted_date": "2022-10-01T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb47\")",
+  "userid": 11,
+  "username": "karthikeyan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-02T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb46\")",
+  "userid": 10,
+  "username": "Sankar",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "leave_date": "2022-10-16T00:00:00.000Z",
+  "task_submitted_date": "2022-10-03T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb45\")",
+  "userid": 9,
+  "username": "Dinesh",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 2,
+  "task_submitted_date": "2022-10-04T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb44\")",
+  "userid": 8,
+  "username": "AjayKrishna",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 2,
+  "task_submitted_date": "2022-10-05T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb43\")",
+  "userid": 7,
+  "username": "Sravan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 3,
+  "mentor_id": 1,
+  "leave_date": "2022-10-06T00:00:00.000Z",
+  "task_submitted_date": "2022-10-06T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb42\")",
+  "userid": 6,
+  "username": "Sangeetha",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": false,
+  "drive_id": 0,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-07T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb41\")",
+  "userid": 5,
+  "username": "Dhanya",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-08T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb40\")",
+  "userid": 4,
+  "username": "Neelakandan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 3,
+  "mentor_id": 1,
+  "leave_date": "2022-10-16T00:00:00.000Z",
+  "task_submitted_date": "2022-10-25T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb3f\")",
+  "userid": 3,
+  "username": "Rakesh",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "task_submitted_date": "2022-10-15T00:00:00.000Z",
+  "task_id": 2
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb3e\")",
+  "userid": 2,
+  "username": "Vijay",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 2,
+  "mentor_id": 1,
+  "code_id": [
+    1,
+    2,
+    8,
+    6,
+    10,
+    7
+  ],
+  "task_submitted_date": "2022-10-24T00:00:00.000Z",
+  "task_id": 1
+},
+{
+  "_id": "ObjectId(\"639a2525a08648209151bb3d\")",
+  "userid": 1,
+  "username": "Saravanan",
+  "course": [
+    "react",
+    "nodejs",
+    "mySQL",
+    "mongoDB"
+  ],
+  "placement": true,
+  "drive_id": 1,
+  "mentor_id": 1,
+  "code_id": [
+    1,
+    2,
+    4,
+    5,
+    7
+  ],
+  "task_submitted_date": "2022-10-14T00:00:00.000Z",
+  "task_id": 2
+}]

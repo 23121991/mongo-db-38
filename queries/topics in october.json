@@ -1,0 +1,30 @@
+[{
+  "_id": "ObjectId(\"639a5f95a08648209151bb8c\")",
+  "topic_id": 2,
+  "topicname": "javascript",
+  "date": "2022-10-22T00:00:00.000Z"
+},
+{
+  "_id": "ObjectId(\"639a5f95a08648209151bb8e\")",
+  "topic_id": 4,
+  "topicname": "nodejs",
+  "date": "2022-10-06T00:00:00.000Z"
+},
+{
+  "_id": "ObjectId(\"639a5f95a08648209151bb8f\")",
+  "topic_id": 5,
+  "topicname": "mySQL",
+  "date": "2022-10-13T00:00:00.000Z"
+},
+{
+  "_id": "ObjectId(\"639a5f95a08648209151bb90\")",
+  "topic_id": 6,
+  "topicname": "mongoDB",
+  "date": "2022-10-20T00:00:00.000Z"
+},
+{
+  "_id": "ObjectId(\"639a5f95a08648209151bb92\")",
+  "topic_id": 8,
+  "topicname": "doubtclarification",
+  "date": "2022-10-31T00:00:00.000Z"
+}]
